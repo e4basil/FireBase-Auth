@@ -1,0 +1,83 @@
+# [Android] ========================
+# Built application files
+*.ap_
+*.apk
+
+# Files for the Dalvik VM
+*.dx
+
+# Java class files
+*.class
+
+# Gradle files
+.gradle
+/build
+/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+/local.properties
+*.properties
+# Log Files
+*.log
+
+## Directory-based project format:
+.idea/*
+
+## File-based project format:
+*.ipr
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+
+# [Gradle-Android] ========================
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Gradle Signing
+signing.properties
+trestle.keystore
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+# Misc
+/.idea/
+.DS_Store
+/captures
+**/*.iml
+
+/app/build/
+
+/app/build
+/projectFilesBackup/
+
+/import-summary.txt
+
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/app/google-services.json
